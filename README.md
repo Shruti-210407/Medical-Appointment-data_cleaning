@@ -22,7 +22,8 @@ outcomes: -- Understanding of data pre-processing
 4. Applied the same split to the Appointment_Day column to extract date and time separately.
 5. Converted all column headers to uppercase using the Excel formula:
    =UPPER(cell_reference)
-6. Formatted the dataset as an Excel Table to improve readability and enable filtering/sorting features.
+6. Remove white spaces usinf = (TRIM(text)).
+7. Formatted the dataset as an Excel Table to improve readability and enable filtering/sorting features.
    
    
 
